@@ -1,0 +1,1 @@
+An iOS application that streams positional information back to a [position-midi](https://github.com/tombooth/position-midi) server. The goal is for manipulations in the motion of the iOS device to be processed and turned into MIDI signals.
